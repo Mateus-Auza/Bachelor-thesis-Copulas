@@ -32,31 +32,14 @@ This thesis introduces the theoretical foundations of copula theory, develops th
 ```text
 .
 ├── README.md
-├── thesis.pdf
-├── thesis.tex
+├── Projet_fin_bachelier.pdf
+├── Projet_fin_bachelier.tex
 ├── bibliography.bib
-├── chapters/
-│   ├── 01-introduction.tex
-│   ├── 02-copulas.tex
-│   ├── 03-frechet-hoeffding.tex
-│   ├── 04-dependence-concordance.tex
-│   ├── 05-dependence-measures.tex
-│   └── conclusion.tex
-└── figures/
 ```
 
 ## Compilation
 
-To compile the thesis locally:
-
-```bash
-pdflatex thesis.tex
-bibtex thesis
-pdflatex thesis.tex
-pdflatex thesis.tex
-```
-
-Alternatively, the project can be compiled using Overleaf.
+The project can be compiled using Overleaf.
 
 ## Main References
 
