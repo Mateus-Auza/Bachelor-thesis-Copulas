@@ -3,6 +3,8 @@
 Bachelor Thesis in Mathematics  
 UCLouvain — Academic Year 2024–2025
 
+The thesis manuscript is written in French, while this repository is documented in English.
+
 ## Overview
 
 This thesis provides an introduction to copula theory and its role in modeling dependence between random variables independently of their marginal distributions.
